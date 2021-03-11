@@ -1,0 +1,15 @@
+{
+  "name": "coolmoviez-api",
+  "version": "1.0.0",
+  "description": "Unofficial api for coolmoviez.shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Linc Codes",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5"
+  }
+}
