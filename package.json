@@ -3,9 +3,22 @@
   "version": "1.0.0",
   "description": "Unofficial api for coolmoviez.shop",
   "main": "index.js",
+  "homepage": "https://github.com/LincCodes/coolmoviez-api",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LincCodes/coolmoviez-api.git"
+  },
   "scripts": {
     "test": "node index.js"
   },
+  "keywords": [
+    "movies",
+    "api",
+    "coolmoviez",
+    "freemovies",
+    "movieapi",
+    "coolmovie"
+  ],
   "author": "Linc Codes",
   "license": "ISC",
   "dependencies": {
